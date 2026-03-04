@@ -1,42 +1,42 @@
-# Pregnancy Care Tracking System (KPPMCH)
+# KPPMCH Pregnancy Care: Support with Heart
 
-This system is a digital assistant for pregnant patients and nurses. It helps track health data and sends alerts to nurses immediately if there are any risks, ensuring safe care for both mother and baby.
+This system is designed to be a "digital companion" for mothers-to-be and a "helpful assistant" for our nurses. We believe that technology should make healthcare feel warmer and safer for every mother and baby.
 
 ---
 
-### 1. How this project helps (Results)
-I built this system to replace manual tracking with a smart, automated tool that helps nurses save lives.
+### 1. Why this project matters (Results with Heart)
+We turn stressful paperwork into "caring time," allowing nurses to focus more on the health of the mother and child.
 
-| Current Problem | My Solution | Result for Patient & Mother |
+| Patient's Concern | How we help | Heartfelt Result |
 | :--- | :--- | :--- |
-| **High-Risk Monitoring** | Automated Health Tracking | Fast response for high-risk pregnancies |
-| **Slow Communication** | LINE API Alerts | Nurses get instant notifications for help |
-| **Data Loss** | Smart Saving System | No health data is lost during the process |
-| **Manual Calculation** | Automatic Logic | Accurate due dates and health metrics |
+| **Pregnancy Risks** | Smart Health Tracking | Mothers feel safe with close monitoring |
+| **Need Help Quickly** | Instant LINE Alerts | Nurses are there for you in seconds |
+| **Lost Health Records** | Secure Saving System | Your health history is always safe with us |
+| **Confusing Dates** | Automatic Calculations | Accurate due dates for peace of mind |
 
 ---
 
-### 2. How the system works (Simple Design)
-The system is built to be reliable and easy for pregnant users to access through their phones.
+### 2. Designed for Comfort (Simple Design)
+We made everything simple so that mothers and nurses can use the system without any stress.
 
-| Part | Simple Explanation | Main Benefit |
+| Part | Friendly Explanation | Why it feels good |
 | :--- | :--- | :--- |
-| **User Interface** | Modern Web Tools | Easy to enter health info on a mobile phone |
-| **Communication** | LINE Application | Patients can talk to nurses easily |
-| **Data Engine** | Smart Background Logic | Stores information safely and quickly |
-| **Updates** | Automatic Deployment | The system is always updated with new features |
+| **Registration** | Simple Mobile Forms | Mothers can check-in easily from home |
+| **Communication** | LINE Application | Use a familiar app to stay connected |
+| **Data Engine** | Quiet Background Logic | Works smoothly without bothering the user |
+| **System Updates** | Constant Improvements | We always find new ways to care for you |
 
 ---
 
-### 3. Safety and Reliability
-Patient safety is the most important part of healthcare. This system is built to be a trusted tool for medical staff.
+### 3. Safety and Trust
+We care for your data just like we care for our family. This system is built on trust and professional standards.
 
 | Standard | Implementation Detail |
 | :--- | :--- |
-| **Nurse Verified** | Designed based on needs of Senior Professional Nurses |
-| **Accuracy** | Automatically checks for correct health data |
-| **Quick Response** | Built to send alerts to medical staff without delay |
-| **Scalable** | Ready to connect with other hospital computer systems |
+| **Nurse Verified** | Designed with love and care by Senior Professional Nurses |
+| **Data Accuracy** | Double-checked by logic to ensure medical safety |
+| **Quick Response** | Built to call for help immediately when needed |
+| **Future Ready** | Can grow to support more mothers in more hospitals |
 
 ---
 
@@ -45,17 +45,17 @@ Patient safety is the most important part of healthcare. This system is built to
 | :--- | :--- |
 | **Setup** | `npm install` |
 | **Run System** | `npm run dev` |
-| **Configuration** | Set up LINE and Google tokens in `.env.local` |
+| **Config** | Setup keys in `.env.local` |
 
 ---
 
-### 5. Contact Information
+### 5. Contact & Professional Credits
 | Category | Detail |
 | :--- | :--- |
 | **Lead Developer** | Ratchanon Noknoy |
-| **Clinical Partner** | Senior Professional Nursing Team |
+| **Clinical Partner** | Developed with Senior Nursing Experts |
 | **LinkedIn** | [Professional Profile](https://www.linkedin.com/in/ratchanon-noknoy/) |
 | **GitHub** | [Technical Portfolio](https://github.com/ratchanon-noknoy2318) |
 
 ---
-**Note:** This project focuses on maternal safety and using technology to provide better care for mothers and their children.
+**Final Note:** This project is built with the hope of making maternal care better, safer, and more loving for every family.
