@@ -1,15 +1,13 @@
 # Pregnancy Care Information Portal
 
-> A web-based information portal designed to provide educational content, guidance, and resources for pregnancy care, helping users understand maternal health, prenatal care, and safe pregnancy practices.
+> A web-based information portal providing structured educational content and guidance on pregnancy care, maternal health, and prenatal safety practices.
 
 ---
 
 ## 🚀 Getting Started
 
-These instructions will help you set up and run the project on your local machine.
-
 ### 📌 Prerequisites
-- Node.js (v16 or higher)
+- Node.js (v16+)
 - npm or yarn
 - Git
 
@@ -17,53 +15,41 @@ These instructions will help you set up and run the project on your local machin
 
 ## 📥 Installation
 
-### 1. Clone the repository
-git clone https://github.com/ratchanon-noknoy2318/pregnancy-care-information-portal.git
+git clone https://github.com/ratchanon-noknoy2318/pregnancy-care-information-portal.git  
+cd pregnancy-care-information-portal  
+npm install  
+npm start  
 
-### 2. Go to project directory
-cd pregnancy-care-information-portal
-
-### 3. Install dependencies
-npm install
-
-### 4. Run the project
-npm start
-
-The application will run at:
+Runs at:
 http://localhost:3000
 
 ---
 
-## 💡 Usage
+## 💡 System Overview
 
-This portal provides educational content related to pregnancy care.
+This portal delivers structured pregnancy-related health information to support users in understanding maternal care and prenatal health practices.
 
-Main features:
-- Pregnancy health information and guidance
-- Weekly pregnancy educational content
+Core content areas:
+- Pregnancy health education
+- Weekly pregnancy guidance content
 - Prenatal care recommendations
-- Warning signs and when to seek medical attention
-- Health articles for mothers
+- Warning signs and safety awareness
 
 ---
 
 ## ✨ Features
 
-- [x] Pregnancy information portal
-- [x] Educational health content for mothers
-- [x] Weekly pregnancy guidance content
-- [x] Prenatal care information pages
-- [ ] User authentication system
-- [ ] Personalized pregnancy tracking
-- [ ] Doctor consultation integration
-- [ ] Notification reminders for prenatal care
+- Educational pregnancy content system
+- Structured weekly guidance pages
+- Prenatal care information module
+- Health awareness articles
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Tech Stack
 
 - React - Frontend framework
-- Node.js - Backend runtime
+- Node.js - Runtime environment
 - CSS - Styling
 
 ---
@@ -71,37 +57,23 @@ Main features:
 ## 📁 Project Structure
 
 pregnancy-care-information-portal/
-├── client/          (Frontend - React)
-├── server/          (Backend API if applicable)
-├── public/          (Static assets)
-├── src/             (Main source code)
+├── client/
+├── server/ (if applicable)
+├── public/
+├── src/
 └── README.md
-
----
-
-## 📌 Project Purpose
-
-This project focuses on providing accessible and easy-to-understand pregnancy health information, including prenatal care, maternal safety guidelines, and educational resources to support maternal health awareness.
-
-It is intended for educational and informational purposes.
 
 ---
 
 ## 📈 Future Improvements
 
-- Personalized pregnancy dashboard
-- AI-based pregnancy Q&A assistant
-- Appointment booking system
-- Integration with healthcare providers
-- Mobile application version (React Native)
+- Personalized pregnancy tracking dashboard
+- Appointment booking integration
+- AI-assisted health assistant
+- Mobile application version
 
 ---
 
 ## 👨‍💻 Author
 
 GitHub: https://github.com/ratchanon-noknoy2318
-
----
-
-## 📄 License
-This project is for educational and portfolio purposes only.
