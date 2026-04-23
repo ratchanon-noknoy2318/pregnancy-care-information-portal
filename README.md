@@ -1,61 +1,107 @@
-# KPPMCH Pregnancy Care: Support with Heart
+# Pregnancy Care Information Portal
 
-This system is designed to be a "digital companion" for mothers-to-be and a "helpful assistant" for our nurses. We believe that technology should make healthcare feel warmer and safer for every mother and baby.
-
----
-
-### 1. Why this project matters (Results with Heart)
-We turn stressful paperwork into "caring time," allowing nurses to focus more on the health of the mother and child.
-
-| Patient's Concern | How we help | Heartfelt Result |
-| :--- | :--- | :--- |
-| **Pregnancy Risks** | Smart Health Tracking | Mothers feel safe with close monitoring |
-| **Need Help Quickly** | Instant LINE Alerts | Nurses are there for you in seconds |
-| **Lost Health Records** | Secure Saving System | Your health history is always safe with us |
-| **Confusing Dates** | Automatic Calculations | Accurate due dates for peace of mind |
+> A web-based information portal designed to provide educational content, guidance, and resources for pregnancy care, helping users understand maternal health, prenatal care, and safe pregnancy practices.
 
 ---
 
-### 2. Designed for Comfort (Simple Design)
-We made everything simple so that mothers and nurses can use the system without any stress.
+## 🚀 Getting Started
 
-| Part | Friendly Explanation | Why it feels good |
-| :--- | :--- | :--- |
-| **Registration** | Simple Mobile Forms | Mothers can check-in easily from home |
-| **Communication** | LINE Application | Use a familiar app to stay connected |
-| **Data Engine** | Quiet Background Logic | Works smoothly without bothering the user |
-| **System Updates** | Constant Improvements | We always find new ways to care for you |
+These instructions will help you set up and run the project on your local machine.
 
----
-
-### 3. Safety and Trust
-We care for your data just like we care for our family. This system is built on trust and professional standards.
-
-| Standard | Implementation Detail |
-| :--- | :--- |
-| **Nurse Verified** | Designed with love and care by Senior Professional Nurses |
-| **Data Accuracy** | Double-checked by logic to ensure medical safety |
-| **Quick Response** | Built to call for help immediately when needed |
-| **Future Ready** | Can grow to support more mothers in more hospitals |
+### 📌 Prerequisites
+- Node.js (v16 or higher)
+- npm or yarn
+- Git
 
 ---
 
-### 4. Technical Setup (For Developers)
-| Task | Command |
-| :--- | :--- |
-| **Setup** | `npm install` |
-| **Run System** | `npm run dev` |
-| **Config** | Setup keys in `.env.local` |
+## 📥 Installation
+
+### 1. Clone the repository
+git clone https://github.com/ratchanon-noknoy2318/pregnancy-care-information-portal.git
+
+### 2. Go to project directory
+cd pregnancy-care-information-portal
+
+### 3. Install dependencies
+npm install
+
+### 4. Run the project
+npm start
+
+The application will run at:
+http://localhost:3000
 
 ---
 
-### 5. Contact & Professional Credits
-| Category | Detail |
-| :--- | :--- |
-| **Lead Developer** | Ratchanon Noknoy |
-| **Clinical Partner** | Developed with Senior Nursing Experts |
-| **LinkedIn** | [Professional Profile](https://www.linkedin.com/in/ratchanon-noknoy/) |
-| **GitHub** | [Technical Portfolio](https://github.com/ratchanon-noknoy2318) |
+## 💡 Usage
+
+This portal provides educational content related to pregnancy care.
+
+Main features:
+- Pregnancy health information and guidance
+- Weekly pregnancy educational content
+- Prenatal care recommendations
+- Warning signs and when to seek medical attention
+- Health articles for mothers
 
 ---
-**Final Note:** This project is built with the hope of making maternal care better, safer, and more loving for every family.
+
+## ✨ Features
+
+- [x] Pregnancy information portal
+- [x] Educational health content for mothers
+- [x] Weekly pregnancy guidance content
+- [x] Prenatal care information pages
+- [ ] User authentication system
+- [ ] Personalized pregnancy tracking
+- [ ] Doctor consultation integration
+- [ ] Notification reminders for prenatal care
+
+---
+
+## 🛠️ Built With
+
+- React - Frontend framework
+- Node.js - Backend runtime
+- CSS - Styling
+
+---
+
+## 📁 Project Structure
+
+pregnancy-care-information-portal/
+├── client/          (Frontend - React)
+├── server/          (Backend API if applicable)
+├── public/          (Static assets)
+├── src/             (Main source code)
+└── README.md
+
+---
+
+## 📌 Project Purpose
+
+This project focuses on providing accessible and easy-to-understand pregnancy health information, including prenatal care, maternal safety guidelines, and educational resources to support maternal health awareness.
+
+It is intended for educational and informational purposes.
+
+---
+
+## 📈 Future Improvements
+
+- Personalized pregnancy dashboard
+- AI-based pregnancy Q&A assistant
+- Appointment booking system
+- Integration with healthcare providers
+- Mobile application version (React Native)
+
+---
+
+## 👨‍💻 Author
+
+GitHub: https://github.com/ratchanon-noknoy2318
+
+---
+
+## 📄 License
+This project is for educational and portfolio purposes only.
