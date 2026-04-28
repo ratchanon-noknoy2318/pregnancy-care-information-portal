@@ -1,21 +1,18 @@
-# Pregnancy Care Information Portal
+# Pregnancy Care Information Page
 
-A healthcare information web portal designed to provide structured pregnancy-related information and support healthcare communication workflows for maternal care services.
+A healthcare information web page for pregnancy care content, built based on requirements from nursing staff, including color theme and basic content structure.
 
 ## Overview
-This platform serves as an informational portal for pregnancy care, providing structured content and healthcare-related guidance to support maternal health services in a municipal healthcare environment.
+This page presents pregnancy care information in a structured and user-friendly format based on healthcare staff requirements.
 
 ## Key Features
-- Structured pregnancy care information portal
-- Educational content for maternal health stages
-- Healthcare guidance support interface
-- Responsive web-based user access
+- Pregnancy care information display
+- UI color theme based on staff requirement
+- Basic content layout and structure
+- Responsive web page
 
 ## Tech Stack
 Next.js • React • Vercel
 
-## Domain
-Maternal healthcare information system (Pregnancy Care & Education Portal)
-
-## Impact
-- Improved accessibility of pregnancy care information for users in a healthcare service environment
+## Scope
+UI implementation based on healthcare staff requirements (non-system application)
